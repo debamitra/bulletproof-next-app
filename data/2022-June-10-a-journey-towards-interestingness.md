@@ -1,4 +1,4 @@
-More Editss Edit it today 12 June Edit it - Why are certain types of work or activity more interesting to us than others? How do we objectively measure the interestingness of things? Because it may vary from person to person.  There are so many variables that influence how an individual may perceive something. I am tired of writing. This is so boring. I am doing this to get some sample content to do a Proof-Of-Concept for the 
+Not that many edits More Editss Edit it today 12 June Edit it - Why are certain types of work or activity more interesting to us than others? How do we objectively measure the interestingness of things? Because it may vary from person to person.  There are so many variables that influence how an individual may perceive something. I am tired of writing. This is so boring. I am doing this to get some sample content to do a Proof-Of-Concept for the 
 Wordplex
  google extension which will publish a doc to a website page.
 
